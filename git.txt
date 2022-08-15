@@ -1,0 +1,7 @@
+
+tạo thư mục trong github
+
+vào termiall
+
+
+git push origin master
